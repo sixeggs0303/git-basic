@@ -1,0 +1,3 @@
+git add: This command adds a change in the working directory to the staging area
+git commit: This command captures a snapshot of the local repository's currently staged changes
+git push: This command pushes the local changes to your remote repository
